@@ -1,3 +1,4 @@
+### Base Framework Implementation
 ```python
 class EduCodeBench:
     def __init__(self):
